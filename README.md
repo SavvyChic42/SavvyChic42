@@ -14,7 +14,7 @@
 
 - 📫 How to reach me via E-mail **dinithinethmini01@gmail.com**
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=rashiddaha)
+
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
