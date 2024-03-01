@@ -1,4 +1,3 @@
-![a23 (3)](https://github.com/SavvyChic42/SavvyChic42/assets/51082957/2f8cc8df-70c0-4ddb-9dcf-072eb30dcadf)
 
  
  
